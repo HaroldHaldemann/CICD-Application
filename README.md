@@ -145,7 +145,7 @@ If your image cannot be found locally, Docker will download the image from your 
 You can access the app in your internet browser at `http://127.0.0.1:<PORT>/`
 
 
-# Deployment and CI:CD
+# Deployment and CI/CD
 
 ## Description
 
@@ -155,6 +155,7 @@ The pipeline will execute the following steps:
 - Install requirements
 - Run linter
 - Run pytest
+
 If none of the steps are failed and the pushed branch is main, the pipeline will:
 - create a docker image and push it to your docker repository.
 - deploy your apllcation on Heroku
