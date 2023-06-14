@@ -11,7 +11,8 @@ You can monitor the application errors with [Sentry](https://sentry.io/welcome/)
 ## Prerequisites
 
 - Python 3.6 or higher.
-- A SQLite3 client.
+- A SQLite3 client (for database modification)
+- Docker Desktop (for running, building and pushing images locally)
 
 ## Installation
 
