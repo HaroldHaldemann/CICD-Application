@@ -1,3 +1,4 @@
+Test
 # Introduction
 
 This project is a refactoring work of the repository [Python-OC-Lettings-FR](https://github.com/OpenClassrooms-Student-Center/Python-OC-Lettings-FR) project.
