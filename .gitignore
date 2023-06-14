@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 */migrations/*
+oc-lettings-site-backup.sqlite3
